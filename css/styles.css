@@ -4,7 +4,7 @@
   --black: #1f1f1f;
   --white: #fff;
   --yellow: #ffc554;
-  --deep-yellow: #ffc727;
+  --deep-yellow: #d9b246;
   --bg-yellow: #fffaf1;
   --btn-yellow: #fff4d4;
   --footer-yellow: #fff9e9;
@@ -22,12 +22,12 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 65.5%;
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   color: var(--black);
@@ -35,7 +35,7 @@ body {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: var(--black);
 }
 
 li {
@@ -60,7 +60,7 @@ section {
   top: 0;
   left: 0;
   right: 0;
-  padding: 1rem 7%;
+  padding: 2rem 7%;
   height: 8rem;
   background: var(--white);
   display: flex;
@@ -71,7 +71,7 @@ section {
 }
 
 .logo {
-  font-size: 3.6rem;
+  font-size: 4rem;
   font-weight: 700;
 }
 

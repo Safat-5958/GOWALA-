@@ -11,7 +11,6 @@ All notable changes to the Gowala project are documented here.
 - User login page with form validation
 - User registration page
 - Order listing page
-- Checkout flow with three payment method variants (M1, M2, M3)
 - Responsive CSS stylesheets for all pages
 - Main JavaScript file for UI interactions
 - SVG and image assets for illustrations and icons

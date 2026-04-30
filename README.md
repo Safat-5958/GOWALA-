@@ -17,7 +17,7 @@
 
 ## 🚀 About The Project
 
-> **Gowala is a responsive front-end web application for a food and dairy product delivery service. It allows users to browse products, register/login, place orders, and complete checkout — all from a clean, mobile-friendly interface.
+> Gowala is a responsive front-end web application for a food and dairy product delivery service. It allows users to browse products, register/login, place orders, and complete checkout — all from a clean, mobile-friendly interface.
 
 
 ---
@@ -37,7 +37,7 @@
 <p align="center">
   <img src="images/Screenshot 2026-05-01 004107.png" width="750"/>
   <img src="images/Screenshot 2026-05-01 004216.png" width="750"/>
-  <img src="images/Screenshot 2026-05-01 004259.png" width="750"/>
+  <img src="images/Screenshot 2026-05-01 004259.png" width="400"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 # Clone repo
 git clone https://github.com/Safat-5958/GOWALA-.git
 
-# Run project Using Vs Code
+Run project Using VS Code
 
 
 

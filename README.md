@@ -3,10 +3,10 @@ Gowala is a responsive front-end web application for a food and dairy product de
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
+
    git clone < https://github.com/Safat-5958/GOWALA-.git >
    cd Gowala
-   ```
+   
 
 2. Open `home.html` in any modern web browser (Chrome, Firefox, Edge).
 

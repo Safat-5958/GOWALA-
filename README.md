@@ -13,15 +13,6 @@
 
 ---
 
-<!-- BADGES -->
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Safat-5958/GOWALA-?style=for-the-badge&color=yellow"/>
-  <img src="https://img.shields.io/github/forks/Safat-5958/GOWALA-?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/issues/Safat-5958/GOWALA-?style=for-the-badge&color=red"/>
-  <img src="https://img.shields.io/github/license/Safat-5958/GOWALA-?style=for-the-badge&color=green"/>
-</p>
-
 ---
 
 ## 🚀 About The Project
@@ -39,20 +30,14 @@
 ✔️ Clean UI/UX
 
 ---
-
-## 🎬 Live Preview
-
-<p align="center">
-  <img src="images/demo.gif" width="700"/>
-</p>
-
 ---
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/Screenshot 2026-05-01 004107.png" width="850"/>
-  <img src="images/Screenshot 2026-05-01 004216.png" width="850"/>
+  <img src="images/Screenshot 2026-05-01 004107.png" width="750"/>
+  <img src="images/Screenshot 2026-05-01 004216.png" width="750"/>
+  <img src="images/Screenshot 2026-05-01 004259.png" width="750"/>
 </p>
 
 ---
@@ -60,7 +45,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
 
 ---
@@ -71,45 +56,9 @@
 git clone https://github.com/Safat-5958/GOWALA-.git
 
 # Run project Using Vs Code
-```
-
----
-
-## 🧩 Project Structure
 
 
-GOWALA/
-├── frontend/
-├── images/
-├── assets/
-└── README.md
 
 
----
-
-## 📊 Workflow
-
-```mermaid
-flowchart LR
-A(User) --> B(System)
-B --> C(Database)
-C --> D(Output)
-```
-
----
-
-
--
-
-
-## 🔥 Fun Section
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safat-5958&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safat-5958&theme=tokyonight"/>
-</p>
 
 

@@ -1,4 +1,4 @@
-Gowala is a responsive front-end web application for a food and dairy product delivery service. It allows users to browse products, register/login, place orders, and complete checkout — all from a clean, mobile-friendly interface.ENJOY YOUR DAY 
+Gowala is a responsive front-end web application for a food and dairy product delivery service. It allows users to browse products,register/login, place orders, and complete checkout — all from a clean, mobile-friendly interface.ENJOY YOUR DAY 
 
 ### 🚀 How to Run : 
 

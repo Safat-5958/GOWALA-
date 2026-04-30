@@ -32,12 +32,12 @@
 ---
 ---
 
-## 📸 Screenshots
+## WEBSITE 
 
 <p align="center">
   <img src="images/Screenshot 2026-05-01 004107.png" width="750"/>
   <img src="images/Screenshot 2026-05-01 004216.png" width="750"/>
-  <img src="images/Screenshot 2026-05-01 004259.png" width="400"/>
+  <img src="images/Screenshot 2026-05-01 004259.png" width="250"/>
 </p>
 
 ---

@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Smart • Modern • Interactive System</b><br>
-  <i>Built with passion by Safat Ahmed</i>
+  <i></i>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/Screenshot 2026-05-01 004107.png" width="300"/>
+  <img src="images/Screenshot 2026-05-01 004107.png" width="600"/>
   <img src="images/dashboard.png" width="300"/>
   <img src="images/login.png" width="300"/>
 </p>

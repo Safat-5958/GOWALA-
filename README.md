@@ -3,7 +3,7 @@
 <h1 align="center">GOWALA</h1>
 
 <p align="center">
-  <b>Smart • Modern • Interactive System</b><br>
+  <b>Smart • Modern • Interactive Design</b><br>
   <i></i>
 </p>
 

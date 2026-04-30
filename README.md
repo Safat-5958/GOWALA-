@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C853&center=true&vCenter=true&width=600&lines=Welcome+to+GOWALA+Project;Smart+Management+System;Fast+%7C+Secure+%7C+Reliable" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C853&center=true&vCenter=true&width=600&lines=Welcome+to+GOWALA+Project;" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 <p align="center">
   <img src="images/Screenshot 2026-05-01 004107.png" width="700"/>
   <img src="images/Screenshot 2026-05-01 004216.png" width="700"/>
-  <img src="images/Screenshot 2026-05-01 004259.png" width="250"/>
+  <img src="images/Screenshot 2026-05-01 004259.png" width="200"/>
 </p>
 
 ---
